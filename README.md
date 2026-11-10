@@ -1,6 +1,8 @@
 # pluralsight.case.study
 Punë seminari Sisteme Informacioni 
+
 Rasti i studimit Pluralsight
+
 Tema: Analiza e modelit të biznesit të Pluralsight dhe mundësitë e zhvillimit të tij
 
 
